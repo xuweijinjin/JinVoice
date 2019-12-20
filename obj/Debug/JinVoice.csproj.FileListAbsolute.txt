@@ -1,0 +1,9 @@
+E:\solutions\JinVoice\bin\Debug\JinVoice.exe.config
+E:\solutions\JinVoice\bin\Debug\JinVoice.exe
+E:\solutions\JinVoice\bin\Debug\JinVoice.pdb
+E:\solutions\JinVoice\obj\Debug\JinVoice.csprojAssemblyReference.cache
+E:\solutions\JinVoice\obj\Debug\JinVoice.Form1.resources
+E:\solutions\JinVoice\obj\Debug\JinVoice.Properties.Resources.resources
+E:\solutions\JinVoice\obj\Debug\JinVoice.csproj.GenerateResource.cache
+E:\solutions\JinVoice\obj\Debug\JinVoice.exe
+E:\solutions\JinVoice\obj\Debug\JinVoice.pdb
